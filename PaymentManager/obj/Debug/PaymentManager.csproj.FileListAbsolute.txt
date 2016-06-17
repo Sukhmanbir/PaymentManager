@@ -1,0 +1,13 @@
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\PaymentManager.exe.config
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\Payments.mdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\PaymentManager.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\PaymentManager.pdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\Beanstream.dll
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.csprojResolveAssemblyReference.cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.paymentManagerForm.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.Properties.Resources.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.csproj.GenerateResource.Cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\PaymentManager\PaymentManager\obj\Debug\PaymentManager.pdb
